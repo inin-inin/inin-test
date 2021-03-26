@@ -8,65 +8,12 @@
       </nav-bar>
   </div>
      
-        <div class="box">
-            <!-- 第一列 -->
-            <div class="a">
-              <div class="A">
-                <!-- <p class="aa" v-for="item in items" :key="item.message">
-                  {{ item.messgae }}</p>
-                   -->
-                 
-             
-                <div class="A"><p class="aa">办理入职</p><p class="ab">快速办理人员入职</p><img class="aaa" src="../assets/jobs_01.png" alt=""></div> 
-                <div class="A"><p class="aa">员工关怀</p><p class="ab">快速办理人员入职</p><img class="aaa" src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><p class="ab">快速办理人员入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><p class="ab">快速办理人员入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><p class="ab">快速办理人员入职</p><img src="../assets/jobs_01.png" alt=""></div>      </div> 
-            </div>
-            <!-- 第二列 -->
-            <div class="b">
-               <div class="A"><p class="aa">办理转正</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>   
-            </div>
-            <!-- 第三列 -->
-            <div class="b">
-                 <div class="A"><p class="aa">办理离职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>     
-                <div class="A"><p class="aa">办理入职</p><img src="../assets/jobs_01.png" alt=""></div>   
-            </div>
-        </div>
-
-<div class="block">
-  <el-timeline>
-    <el-timeline-item timestamp="2018/4/12" placement="top">
-      <el-card>
-        <h4>更新 Github 模板</h4>
-        <p>王小虎 提交于 2018/4/12 20:46</p>
-      </el-card>
-    </el-timeline-item>
-    <el-timeline-item timestamp="2018/4/3" placement="top">
-      <el-card>
-        <h4>更新 Github 模板</h4>
-        <p>王小虎 提交于 2018/4/3 20:46</p>
-      </el-card>
-    </el-timeline-item>
-    <el-timeline-item timestamp="2018/4/2" placement="top">
-      <el-card>
-        <h4>更新 Github 模板</h4>
-        <p>王小虎 提交于 2018/4/2 20:46</p>
-      </el-card>
-    </el-timeline-item>
-  </el-timeline>
+      
 
    <main-tab-bar></main-tab-bar>
 </div>
         
-</div>
+
   
 
 
